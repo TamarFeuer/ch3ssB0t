@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sL6H1tk2ugjV6gugdA+p7azwW7c8enL+u6adhP9kCr6I0FcVk3hGN7kEfoyCX+MesMWulraeeYY+YYG9up0IoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tslelay Gitit\\Desktop\\Noam\\C#\\ChessProject\\ChessProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tslelay Gitit\\.nuget\\packages\\raylib-cs\\6.0.0\\raylib-cs.6.0.0.nupkg.sha512",
+    "C:\\Users\\Tslelay Gitit\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
